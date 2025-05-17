@@ -11,7 +11,7 @@
     flex-direction: column;
     min-height: 100vh;
     font-style:italic;
-    background-image:url("red\ ai\ picture.jpeg");
+    background-color: RGB(231, 71, 37  );
     background-repeat:no-repeat;
     background-size:cover;
     text-align:center;
